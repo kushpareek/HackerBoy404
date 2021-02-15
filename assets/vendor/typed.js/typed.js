@@ -613,7 +613,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	      }
 	
 	      self.options = _extends({}, _defaultsJs2['default'], options);
-	
+		  		
 	      // attribute to type into
 	      self.isInput = self.el.tagName.toLowerCase() === 'input';
 	      self.attr = self.options.attr;
